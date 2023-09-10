@@ -1,0 +1,15 @@
+D:\GeekBrains\Programming C#\Pulls\Task_60\bin\Debug\net6.0\Task_60.exe
+D:\GeekBrains\Programming C#\Pulls\Task_60\bin\Debug\net6.0\Task_60.deps.json
+D:\GeekBrains\Programming C#\Pulls\Task_60\bin\Debug\net6.0\Task_60.runtimeconfig.json
+D:\GeekBrains\Programming C#\Pulls\Task_60\bin\Debug\net6.0\Task_60.dll
+D:\GeekBrains\Programming C#\Pulls\Task_60\bin\Debug\net6.0\Task_60.pdb
+D:\GeekBrains\Programming C#\Pulls\Task_60\obj\Debug\net6.0\Task_60.csproj.AssemblyReference.cache
+D:\GeekBrains\Programming C#\Pulls\Task_60\obj\Debug\net6.0\Task_60.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\Programming C#\Pulls\Task_60\obj\Debug\net6.0\Task_60.AssemblyInfoInputs.cache
+D:\GeekBrains\Programming C#\Pulls\Task_60\obj\Debug\net6.0\Task_60.AssemblyInfo.cs
+D:\GeekBrains\Programming C#\Pulls\Task_60\obj\Debug\net6.0\Task_60.csproj.CoreCompileInputs.cache
+D:\GeekBrains\Programming C#\Pulls\Task_60\obj\Debug\net6.0\Task_60.dll
+D:\GeekBrains\Programming C#\Pulls\Task_60\obj\Debug\net6.0\refint\Task_60.dll
+D:\GeekBrains\Programming C#\Pulls\Task_60\obj\Debug\net6.0\Task_60.pdb
+D:\GeekBrains\Programming C#\Pulls\Task_60\obj\Debug\net6.0\Task_60.genruntimeconfig.cache
+D:\GeekBrains\Programming C#\Pulls\Task_60\obj\Debug\net6.0\ref\Task_60.dll
